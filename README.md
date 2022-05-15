@@ -8,3 +8,7 @@ Assume we need to construct two ducks: a rubber duck and a newborn duck. The ru
 
 Imagine we need to build ten ducks, none of which can fly.So, we duplicate the method "fly" 10 times. That is why it's more elegant to spicify the interface 
 IFlyStrategy, because then we can produce a single class "NoFlyStrategy" and use it instead of duplicating code.
+
+
+
+
