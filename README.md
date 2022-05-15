@@ -1,1 +1,1 @@
-# Examples-of-Design-Patterns
+# 01.01.-Strategy-pattern.-DIfferent-duck-behavior
